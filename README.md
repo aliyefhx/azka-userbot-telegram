@@ -1,1 +1,3 @@
-[Cara Deploy](https://github.com/aliyefhx/azka-userbot-telegram/edit/main/README.md)
+[Cara Deploy](https://github.com/aliyefhx/azka-userbot-telegram)
+
+[heroku Deploy](https://heroku.com/deploy?template=https://github.com/aliyefhx/azka-userbot-telegram)
