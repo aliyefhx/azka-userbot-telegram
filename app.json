@@ -1,12 +1,12 @@
 {
-  "name": "Telegram userbot bot node js example heroku @azkadev",
+  "name": "Telegram userbot @aliyefh_sos hehehe",
   "description": "hayy",
   "keywords": [
     "telegram-bot",
     "telegram-bot-nodejs",
     "userbot"
   ],
-  "repository": "https://github.com/azkadev/azka-userbot-telegram",
+  "repository": "https://github.com/aliyefhx/azka-userbot-telegram",
   "env": {
     "app_id": {
       "description": "https://my.telegram.org/",
